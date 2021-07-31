@@ -1,5 +1,1 @@
-- 👋 Hi, I’m Blessing
-- 👀 I’m interested in frontend web development.
-- 🌱 I’m currently learning cybersecurity.
-- 📫 Find me on twitter @blessing_mufaro
-
+Common Algorithms (in python) used to implement neural networks in Deep Learning.
